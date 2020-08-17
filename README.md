@@ -1,7 +1,6 @@
-* Try it live at [https://microsoft.github.io/pxt-retro/](https://microsoft.github.io/pxt-retro/)!
+This project aims to become (maybe one day) a Makecode environment to program in 6502 assembly.
 
-# Contributing
+It all starts as a fork of https://github.com/microsoft/pxt-retro.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). 
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or 
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+If anything works, you should be able to try it live at https://adumont.github.io/pxt-6502/.
+
